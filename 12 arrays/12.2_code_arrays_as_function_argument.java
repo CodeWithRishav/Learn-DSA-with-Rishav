@@ -1,4 +1,4 @@
-public class arrays_as_function_argument {
+public class 12.2_code_arrays_as_function_argument {
 
     public static void update_marks(int marks[]){
         for(int i=0; i<marks.length; i++){
